@@ -1,0 +1,55 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.header{
+    height: 9em;
+    padding: 4em;
+    font-size: 2em;
+    background-image: url("../img/fondo.jpg");
+    background-size: cover;
+    background-position: center;
+    color: burlywood;
+    margin: 1px;
+}
+
+.header h1{
+    margin: 0px;
+    font-weight: 400;
+}
+
+.header h2{
+    font-size: 0.8em;
+    font-weight: 400;
+}
+.pasteles{
+    margin: auto;
+    background-color: burlywood;
+}
+
+.pasteles p{
+    font-size: 20px;
+    font-style: italic;
+    text-align: left;
+}
+
+.pasteles td{
+    width: 30%;
+    padding: 1em;
+    text-align: center;
+}
+
+.pasteles img{
+    width: 50%;
+    padding: 2em;
+    border: solid 1px #ddd;
+}
+
+.footer{
+    height: 3em;
+    line-height: 3em;
+    background-color: rgb(185, 112, 41);
+    color: white;
+    text-align: center;
+    font-weight: 900;
+}
